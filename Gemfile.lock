@@ -1,8 +1,8 @@
 PATH
   remote: .
   specs:
-    acts_as_commentable (6.1.0)
-      activerecord (>= 6.1, < 7.1)
+    acts_as_commentable (7.0.0)
+      activerecord (~> 7.0.0)
 
 GEM
   remote: http://rubygems.org/
@@ -47,4 +47,4 @@ DEPENDENCIES
   test-unit
 
 BUNDLED WITH
-   2.2.17
+   2.5.4
